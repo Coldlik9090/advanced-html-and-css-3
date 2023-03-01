@@ -1,0 +1,46 @@
+.black20 , .black21 , .black22{
+  display: inline-block;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.widebody{
+  width: 125px;
+  height: 125px;
+  display: block;
+}
+
+.name{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 5px;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.friends{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 5px;
+  color: grey;
+  font-size: 9px;
+  margin-top: 0px;
+  margin-bottom: 8px;
+ 
+  
+}
+
+.cars{
+  margin-left: 5px;
+  margin-bottom: 5px;
+  background-color: rgb(3, 108, 255);
+  border: none;
+  border-radius: 2px;
+  width: 60px;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  display: block;
+  margin-top: 0px;
+  font-size: 8px;
+}
